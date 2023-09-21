@@ -1,0 +1,2 @@
+class NumeroNegativo(Exception):
+    pass
